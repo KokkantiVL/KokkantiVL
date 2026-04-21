@@ -2,7 +2,7 @@
 
 Software Engineer with 3+ years of experience building distributed systems at scale — Kafka, Redis, sharded databases, and event-driven architectures. MS in Data Science from University at Buffalo. Currently exploring **C++**, **CUDA**, and systems programming.
 
-## What I'm working on
+## What I've worked on
 
 🔧 **[mini-redis](https://github.com/KokkantiVL/mini-redis)** — A Redis-compatible C++17 key-value store with multi-threaded TCP server, RESP protocol parser, support for strings/lists/hashes, TTL expiration, and snapshot persistence.
 
