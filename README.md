@@ -1,6 +1,6 @@
 # Hey, I'm Lohith 👋
 
-Software Engineer with 4+ years of experience building distributed systems at scale — Kafka, Redis, sharded databases, and event-driven architectures. MS in Data Science from University at Buffalo. Currently exploring **C++**, **CUDA**, and systems programming.
+Software Engineer with 5+ years of experience building distributed systems at scale — Kafka, Redis, sharded databases, and event-driven architectures. MS in Data Science from University at Buffalo. Currently exploring **C++**, **CUDA**, and systems programming.
 
 ## What I had worked on
 
